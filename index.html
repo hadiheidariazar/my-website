@@ -553,6 +553,31 @@
                 <div class="bg-green-500 w-full h-96 xs:h-80 md:h-32"></div>
             </div>
         </section>
+
+        <!-- Modal Section -->
+        <div class='fixed flex justify-center items-center inset-0 min-h-screen z-30 transition-all modal-hidden'>
+            <div
+                class='overlay bg-black/50 w-full h-full flex justify-center items-center transition-all z-40 overlay-hidden'>
+            </div>
+            <div class='modal w-[96%] xs:w-[450px] mx-auto p-3 fixed bg-white dark:bg-zinc-700 z-50 transition-all'>
+                <div
+                    class='flex justify-between items-center gap-x-2 pb-2 border-b-[1px] border-b-gray-300 dark:border-b-white/20'>
+                    <h2 class='modal-title font-morabba-medium text-xl dark:text-white'></h2>
+                    <div class="modal-hidden-btn">
+                        <svg class="w-5 h-5 text-zinc-600 dark:text-white" xmlns="http://www.w3.org/2000/svg"
+                            fill="currentColor" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+                        </svg>
+                    </div>
+                </div>
+                <div class='modal-body py-3 dark:text-white'>
+                    <h4> توسعه داده شده با : </h4>
+                    <ul
+                        class="modal-content mt-3 list-disc ms-5 child:marker:text-green-600 dark:child:marker:text-green-500">
+                    </ul>
+                </div>
+            </div>
+        </div>
     </main>
 
     <!-- Main Page Script -->
