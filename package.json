@@ -1,0 +1,12 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "This is a Website for my skills and about me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss -i ./src/input.css -o ./src/styles/index.css --watch"
+  },
+  "author": "hadi heidariazar",
+  "license": "ISC"
+}
