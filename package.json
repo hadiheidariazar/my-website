@@ -8,5 +8,9 @@
     "build": "npx tailwindcss -i ./src/input.css -o ./src/styles/index.css --watch"
   },
   "author": "hadi heidariazar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "tailwindcss": "^3.4.4"
+  }
 }
