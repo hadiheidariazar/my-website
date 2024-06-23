@@ -1,5 +1,13 @@
 ### This template is ready for my personal website, which I developed myself. If you like it, you can use this template
 
+## Getting Started
+
+First, run the TailwindCss CLI:
+
+```bash
+npm run build
+```
+
 ### Click on the link to view this template <a href="http://hadiheidariazar.iapp.ir"> hadiheidariazar </a>
 
 ## Developed with
