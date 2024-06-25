@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-First, run the TailwindCss CLI:
+First, run the TailwindCss for watch styles:
 
 ```bash
 npm run build
