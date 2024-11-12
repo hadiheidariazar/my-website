@@ -8,7 +8,7 @@ First, run the TailwindCss for watch styles:
 npm run build
 ```
 
-### Click on the link to view this template <a href="http://hadiheidariazar.iapp.ir"> hadiheidariazar </a>
+### Click on the link to view this template <a href="http://hadiheidariazar.byethost8.com"> hadiheidariazar </a>
 
 ## Developed with
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
